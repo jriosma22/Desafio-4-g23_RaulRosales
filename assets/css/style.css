@@ -66,11 +66,16 @@ small,
     margin: 0 auto;
 }
 
+/*Se cambia color de navbar
 .header {
     background: #28A745;
     color: white;
     width: 100%;
 
+}*/
+
+.header{
+    background-color: #0d0f75;
 }
 
 #barra {
